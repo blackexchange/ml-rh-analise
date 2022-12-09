@@ -1,4 +1,5 @@
-/datalake/landing/*
-/datalake/curated/*
-/datalake/processing/*
-/datalake/.minio.sys/*
+datalake/landing/*
+datalake/curated/*
+datalake/processing/*
+datalake/.minio.sys/*
+
